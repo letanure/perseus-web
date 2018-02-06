@@ -1,8 +1,6 @@
-[![CircleCI](https://img.shields.io/circleci/project/github/letanure/poc-cms.svg)](https://circleci.com/gh/letanure/poc-cms)
+# Urbanara web client
 
-# POC CMS  Vue JS
-
-Proof of concept of CMS with Vue JS
+Urbanara client
 
 ## Installation
 
@@ -81,7 +79,3 @@ Check the [CHANGELOG.md](CHANGELOG.md) file to see the development rules.
 ## Credits
 
 Luiz Tanure – [@tanure](https://twitter.com/tanure) – letanure@gmail.com
-
-## License
-
-TODO: Write license

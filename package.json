@@ -1,9 +1,9 @@
 {
-  "name": "poc-cms",
-  "version": "0.2.0",
-  "description": "Proof of concept for CMS",
+  "name": "perseus-web",
+  "version": "0.3.0",
+  "description": "Urbanara site",
   "main": "src/index.js",
-  "repository": "git@github.com:letanure/poc-cms.git",
+  "repository": "git@github.com:urbanara/perseus-web.git",
   "author": "Luiz Tanure <letanure@gmail.com>",
   "license": "MIT",
   "scripts": {

@@ -1,4 +1,4 @@
-# POC Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -7,11 +7,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## [Unreleased]
 ### Added
 ### Changed
-- Updated the vue cli webpack template from 1.2.7 to 1.3.1
 ### Deprecated
 ### Removed
 ### Fixed
 ### Security
+
+## [0.3.0] - 06/02/2018
+### Changed
+- Updated the vue cli webpack template from 1.2.7 to 1.3.1
 
 ## [0.2.0] - 28/12/2017
 ### Added
